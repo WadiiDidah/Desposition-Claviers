@@ -1,0 +1,124 @@
+body {
+  background: url('background.jpg') no-repeat fixed;
+  background-size:cover;
+  font-family:"Times New Roman", Times, serif;
+}
+nav {
+  background-color:rgba(255, 180, 5,0.8);
+  border-radius: 12px;
+
+  
+}
+.menu {
+	margin-left: 600px;
+
+}
+
+
+
+#titre {
+	font-size: 120px;
+	margin-left: 75px;
+	border-radius: 12px;
+	color: white;
+	
+	
+
+}
+.haut{
+	background:rgba(0, 0, 0, 0.5)
+
+}
+
+#t2 {
+  margin-left: 80px;
+
+
+
+}
+#t3 {
+	text-align: center;
+	color: white;
+  
+}
+#t4 {
+	text-align: center;
+	color: white;
+}
+#t5 {
+	text-align: center;
+	color: white;
+}
+
+
+#image {
+  
+  left:1000px;
+  position:absolute;
+  top:555px;
+}
+#article1 {
+  width: 72%;
+  padding: 10px;
+  color: black;
+  
+
+}
+#article2 {
+  width: 72%;
+  padding: 10px;
+}
+#image2 {
+  
+  left:1000px;
+  position:absolute;
+  top:734px;
+}
+.lien {
+  width: 200px;
+  height: 200px;
+  background-color: rgba(255, 180, 5,0.8);
+  border: 1px solid orange;
+  }
+ #section1{
+ 	 background-color:rgba(255, 180, 5,0.8);
+ 	 border-radius: 12px;
+
+ }
+ #section2{
+ 	 background-color:rgba(255, 180, 5,0.8);
+ 	 border-radius: 12px;
+ }
+ #section3{
+ 	background-color:rgba(255, 180, 5,0.8);
+ 	border-radius: 12px;
+ }
+ #vid{
+ 	margin-left:300px;
+ }
+ .lien{
+ 	border-radius: 12px;
+ }
+ footer{
+	background:rgba(0, 0, 0, 0.5)
+
+
+ }
+ #fin{
+ 	font-size: 120px;
+	margin-left: 500px;
+	color: white;
+
+ }
+
+
+ 
+ 
+
+
+
+
+
+
+  
+
